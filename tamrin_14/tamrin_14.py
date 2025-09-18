@@ -1,3 +1,6 @@
-scorse = [956, 892, 987, 850, 915, 963, 991, 899, 999]
-scorse.sort(reverse=True)
+amtiaz = [123,134,145,167,187,199,178]
+
+amtiaz.sort(reverse=True)
+
+top_three = 
    

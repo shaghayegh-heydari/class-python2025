@@ -4,4 +4,4 @@ moshakhasat= {"name":"shaghayegh",
 "grade":"nohom",
 "favorite":["book","doll"]}
 with open("info.json","w")as f:
-    json.dump(moshakhasat,f)
+    json.dump(moshakhasat,f)                              

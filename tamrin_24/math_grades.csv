@@ -1,4 +1,4 @@
-student,MathGrade
+[student,MathGrade]
 1,80
 2,17
 3,80
@@ -48,4 +48,3 @@ student,MathGrade
 47,26
 48,82
 49,35
-50,70
